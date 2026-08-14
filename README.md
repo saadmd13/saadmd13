@@ -27,50 +27,58 @@ An AI-powered data analysis platform designed to automate common dataset prepara
 
 **Focus:** Data Cleaning • Exploratory Data Analysis • Automated Insights • AI-assisted Analytics
 
-**Built with:** Python • Pandas • Machine Learning • AI • Web Development
+**Technologies:** Python • Pandas • Machine Learning • AI • Web Development
 
 ---
 
 ### IPL Analytics Dashboard
 
-A cricket analytics project focused on transforming IPL data into interactive business-style dashboards and performance insights.
+A Power BI analytics project focused on transforming IPL match and player data into interactive dashboards and actionable performance insights.
 
 **Analysis includes:**
 
 * Team and player performance
-* Batting and bowling metrics
+* Batting and bowling statistics
 * Match outcomes
 * Season-level trends
-* Comparative performance analysis
+* Comparative team analysis
+* KPI-driven dashboards
 
-**Tools:** Power BI • Excel • Data Cleaning • Data Visualization
-
----
-
-### AgroVision
-
-An AI-powered agricultural application combining machine learning, computer vision, and AI-assisted recommendations.
-
-**Modules:**
-
-* Crop Recommendation
-* Fertilizer Recommendation
-* Crop Disease Detection
-* AI Chatbot
-
-**Technologies:** Python • Scikit-learn • TensorFlow • Keras • OpenCV • Flask • Gemini API
+**Technologies:** Power BI • Excel • Data Cleaning • DAX • Data Visualization
 
 ---
 
-### Network Intrusion Detection System
+### Fraud Analytics Dashboard
 
-Machine-learning based system for identifying normal and malicious network traffic.
+A data analytics project focused on identifying transaction patterns, fraud trends, and risk indicators through interactive business intelligence dashboards.
 
-**Focus:** Data Preprocessing • Feature Engineering • Classification • Model Evaluation • Security Analytics
+**Analysis includes:**
 
-**Technologies:** Python • Pandas • Scikit-learn • Random Forest • Streamlit • Wireshark
+* Transaction volume and value
+* Fraud vs. legitimate transactions
+* Fraud rate and financial impact
+* High-risk transaction patterns
+* Customer and transaction segmentation
+* KPI and trend analysis
+
+**Technologies:** Power BI • SQL • Excel • Data Analysis • DAX • Data Visualization
 
 ---
+
+### Enterprise Data Warehouse
+
+An end-to-end data warehousing project designed to organize and transform business data into a structured analytical environment.
+
+**Focus:**
+
+* Data warehouse architecture
+* ETL / ELT workflows
+* Data integration
+* Fact and dimension modeling
+* Star schema design
+* Analytical reporting
+
+**Technologies:** SQL • Data Warehousing • ETL • Dimensional Modeling • Git/GitHub
 
 ## Data Analytics
 
